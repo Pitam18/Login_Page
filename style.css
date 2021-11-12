@@ -1,0 +1,128 @@
+*
+{
+  margin: 0;
+  padding:0;
+  box-sizing: border-box;
+}
+body
+{
+  background-color:#B6D3FF;
+}
+.container
+{
+  display: flex;
+  flex: 100%;
+  padding: 50px;
+
+}
+.col-1
+{
+  flex: 50%;
+   height: 40rem;
+   background-color: white;
+   border-radius: 10px 0 0 10px;
+}
+.col-2
+{
+  flex: 50%;
+  background-color: #0056FB;
+  height: 40rem;
+  color: white;
+  border-radius: 0 10px 10px 0;
+}
+.right
+{
+  padding: 25%;
+}
+.left
+{
+  padding: 25%;
+  padding-top: 30%;
+}
+.head
+{
+  font-size: 40px;
+}
+.first
+{
+  width: 40%;
+ height: 30px;
+ border-color:gray;
+  border-radius: 5px;
+}
+.last
+{
+  width: 40%;
+  height: 30px;
+  margin-left: 18px;
+  border-color:gray;
+  border-radius: 5px;
+}
+.mail
+{
+  width: 85%;
+ height: 30px;
+  border-color:gray;
+  border-radius: 5px;
+}
+.pass
+{
+  width: 85%;
+  height: 30px;
+  border-color:gray;
+  border-radius: 5px;
+}
+.mbl
+{
+  width: 85%;
+  height: 30px;
+  border-color:gray;
+  border-radius: 5px;
+}
+.btn
+{
+  width: 85%;
+  height: 30px;
+  background-color:#0056FB;
+  color: white ;
+  border-radius: 5px;
+}
+.disp
+{
+ padding: 20%;
+ padding-left: 42%;
+
+}
+.page-1
+{
+ width: 100px;
+ height: 100px;
+ font-size: 25px;
+ background-color: black;
+ color: white;
+}
+.page-2
+{
+ width: 100px;
+ height: 100px;
+ font-size: 25px;
+ background-color: black;
+ color: white;
+}
+.helo
+{
+  background-color: black;
+  color: white;
+  height: 750px;
+}
+.hw 
+{
+  padding: 20%;
+  font-size: 70px;
+  padding-left: 35%;
+}
+a 
+{
+  text-decoration: none;
+  color: white;
+}
